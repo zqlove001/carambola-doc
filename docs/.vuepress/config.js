@@ -38,6 +38,7 @@ module.exports = {
     // 网站标题及描述
     title: 'carambola',
     description: '微服务快速开发框架',
+    base: 'carambola-doc',
     // 主题配置
     themeConfig: {
         // 提取markdown中h2 和 h3 标题，显示在侧边栏上。
